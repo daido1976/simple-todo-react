@@ -8,9 +8,8 @@
     "react-scripts": "1.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "postinstall": "gulp browserify",
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
