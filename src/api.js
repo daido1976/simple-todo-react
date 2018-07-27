@@ -1,4 +1,4 @@
-const ENDPOINT = 'http://localhost:3000';
+const ENDPOINT = 'http://52.194.189.33/';
 
 export const index = () =>
   fetch(`${ENDPOINT}/todos`)
