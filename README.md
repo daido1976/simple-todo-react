@@ -1,5 +1,5 @@
 # simple-todo-react
 
-以下の仕様に則った todo アプリケーションの SPA です。
+以下仕様の API を叩く todo アプリケーションを React で実装しています。
 
-https://app.swaggerhub.com/apis/kielze/TODO-API/1.0.0
+https://app.swaggerhub.com/apis/sukechannnn/TODO-API/1.0.0
